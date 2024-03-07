@@ -27,23 +27,7 @@ header {
 }
 
 .div-items {
-  display: flex;
   justify-content: center;
   text-align: center;
   gap: 20px;
-  font-size: 17px;
-}
- .div-items a{
-
- }
- /* #details { */
-  /* margin-left: 0cm; */
-  /* margin-right: 0cm; */
-  /* float: none; */
-}
-/* div{ */
-  /* margin-left: 0cm; */
-  /* margin-right: 0cm; */
-  /* float: none; */
-}
-  
+} 
