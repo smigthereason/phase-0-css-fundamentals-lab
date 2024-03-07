@@ -18,16 +18,17 @@ header {
 
 #details {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   padding: 0 20px;
   background-color: brown;
   border-bottom: 1px solid #ff600f;
-  gap: 250px;
+  gap: 200px;
 }
 
 .div-items {
   justify-content: center;
   text-align: center;
-  gap: 20px;
+  width: 25%;
+  padding: 20px;
 } 
